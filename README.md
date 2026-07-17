@@ -6,11 +6,10 @@ Starting From: <b>JULY 12, 2026</b>
 
 ## Content
 <ul>
-  <li> Day 1: <a href="https://github.com/Zala-Raj/100DaysOfCode-Python/tree/main/Day1"> Working with Variables in Python to Manage Data </a></li>
-  <li> Day 2: <a href="https://github.com/Zala-Raj/100DaysOfCode-Python/tree/main/Day2"> Understanding Data Types and How to Manipulate Strings </a></li>
-  <li> Day 3: <a href="https://github.com/Zala-Raj/100DaysOfCode-Python/tree/main/Day3"> Control Flow and Logical Operators </a></li>
-  <li> Day 4: <a href="https://github.com/Zala-Raj/100DaysOfCode-Python/tree/main/Day4"> Randomisation and Python Lists </a></li>
-  <li> Day 5: <a href="https://github.com/Zala-Raj/100DaysOfCode-Python/tree/main/Day5"> Python Loops </a></li>
+  <li> Day 2: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day2"> Understanding Data Types and How to Manipulate Strings </a></li>
+  <li> Day 3: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day3"> Control Flow and Logical Operators </a></li>
+  <li> Day 4: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day4"> Randomisation and Python Lists </a></li>
+  <li> Day 5: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day5"> Python Loops </a></li>
 </ul>
 
 <hr>
