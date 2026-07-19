@@ -11,6 +11,7 @@ Starting From: <b>JULY 12, 2026</b>
   <li> Day 3: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day3"> Control Flow and Logical Operators </a></li>
   <li> Day 4: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day4"> Randomisation and Python Lists </a></li>
   <li> Day 5: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day5"> Python Loops </a></li>
+  <li> Day 6: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day6"> Python Functions & Karel </a></li>
 </ul>
 
 <hr>
