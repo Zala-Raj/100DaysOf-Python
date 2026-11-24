@@ -15,8 +15,19 @@ Starting From: <b>JULY 12, 2026</b>
   <li> Day 7: <a href="https://github.com/Zala-Raj/100DaysOf-Python/tree/main/Day7"> Hangman </a></li>
 </ul>
 
-<hr>
 <div align="center"> 
 Last Updated: <b>JULY 20, 2026</b> <br>
 Please ⭐ this repository if you loved it! <br>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://hits.sh/github.com/Zala-Raj/REPO_NAME.svg?style=flat-square&label=Repository%20Views" alt="Repository Views"/>
+</p>
+
+<p align="center">
+  ⭐ If you find this project useful, consider giving it a star!
+  <br>
+  Thanks for visiting! Your feedback and suggestions are always welcome. 💚
+</p>
