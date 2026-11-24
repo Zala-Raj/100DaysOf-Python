@@ -22,13 +22,13 @@ Please ⭐ this repository if you loved it! <br>
 
 ---
 
-<!-- Don't forget to update the repo name in below link after .../Zala-Raj/_Here_.svg....-->
+<!-- Don't forget to update the repository name in the link below after .../Zala-Raj/_REPO_NAME_.svg -->
 <p align="center">
   <img src="https://hits.sh/github.com/Zala-Raj/100DaysOf-Python.svg?style=flat-square&label=Repository%20Views" alt="Repository Views"/>
 </p>
 
 <p align="center">
-  ⭐ If you find this project useful, consider giving it a star!
+  ⭐ If you find this repository useful, consider giving it a star!
   <br>
   Thanks for visiting! Your feedback and suggestions are always welcome. 💚
 </p>
