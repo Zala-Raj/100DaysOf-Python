@@ -20,6 +20,8 @@ Last Updated: <b>JULY 20, 2026</b> <br>
 Please ⭐ this repository if you loved it! <br>
 </div>
 
+<br>
+
 ---
 
 <!-- Don't forget to update the repository name in the link below after .../Zala-Raj/_REPO_NAME_.svg -->
